@@ -11,4 +11,4 @@ En este proyecto se utiliza las siguientes tecnologías:
 -  Algoritmo Haar Cascade
 -  Método LBPH
 
-Para mayor información del proyecto, puede leer el siguiente paper: 
+Para mayor información del proyecto, puede leer el siguiente paper: https://github.com/brianinhu/face-py-ino-proteus/blob/master/paper/paper-bloqueodepuerta-py-ino.pdf
