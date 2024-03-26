@@ -2,8 +2,8 @@ import cv2
 import os
 import imutils
 
-personName = "Mateo"
-dataPath = '../face-py-ino-proteus/Data/Users'
+personName = "Nombre"
+dataPath = '../face-py-ino-proteus/data/users'
 personPath = dataPath + '/' + personName
 
 if not os.path.exists(personPath):
